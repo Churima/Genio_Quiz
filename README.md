@@ -3,7 +3,7 @@
 ## Ideia
 Utilizar uma API gratuita da Open Trivia Database, para gerar perguntas na qual o usuário deve responder e assim formar ponto na qual o mesmo pode está ou não sendo aprovado.
 
-## Technologies
+## Tecnologias
 - Spring WebFlux
 - Java
 - Spring Boot
@@ -92,5 +92,16 @@ Sendo os pontos que fez, resultado final e o total de perguntas.
 
 * Clonar o repositório: 
 ```bash
-git clone 
+git clone https://github.com/Churima/Genio_Quiz.git.git
+cd Genio_Quiz
 ```
+
+* No IntelliJ rodar o sequinte arquivo:
+```bash
+  QuizApplication.java
+```
+
+* Direitos da API:
+[Open Trivia](https://opentdb.com/api_config.php)
+
+  
